@@ -1,0 +1,2 @@
+Neste curso se aprende a como utilizar o git e github, mas para isso temos que conhecer o terminal do computador, 
+nisso utilizamos o terminal linux, que é bastante utilizado no mundo dos programadores.
