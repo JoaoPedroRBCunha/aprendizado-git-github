@@ -1,0 +1,34 @@
+Comandos linux:
+echo - para escrever alguma palavra
+cd - navegar pelo computador e entrar em arquivos;
+pwd - saber o caminho do diretorio onde você está, se localizando;
+ls - saber quais arquivos ou diretorios(pasta) tem no diretorio onde você se encontra;
+touch - para criar arquivos;
+mkdir - para criar pastas/diretorios;
+cp - copiar arquivos;
+mv - mover arquivos;
+rm - para apagar arquivos;
+rm -rf - para apagar diretorios;
+cat - para ler o arquivo
+less - para ler o arquivo no console(Nano);
+clear - para limpar os comandos no terminal;
+exit - para fechar o terminal;
+
+Comando git:
+git init - inicializar o git em um diretorio;
+git clone - para clonar os arquivos e trazê-los (com o diretorio e arquivos) para seu computador;
+git remote add origin ... - para criar um local remoto no seu computador;
+git push origin [branch] - para enviar uma branch com os arquivos dela para o github;
+git add - adicionar um arquivo em staged;
+git reset HEAD [nome_do_arquivo] - para tirar o arquivo de staged; 
+git commit - para dar um commit no arquivo;
+git commit --amend - para modificar a mensagem do ultimo commit;
+git reset HEAD~1 - para remover o ultimo commit e deixalo em unstaged;
+git log - para ver os commits já feitos;
+git status - para saber o status de algum arquivo;
+git diff - para saber a diferença de um arquivo antes de ser salvo;
+git branch [nome_do_arquivo] - para criar uma branch
+git branch -D [nome_do_arquivo] - para deletar uma branch;
+git checkout -- [nome_do_arquivo] - para descartas as alterações e voltar ao que estava salvo no arquivo;
+git checkout -b [nome_do_arquivo] - para criar uma branch e já ir trocar para ela (sair da branch onde está e ir para essa nova que criou);
+git merge - para trazer os arquivos e tudo que estava em uma branch para outra;
