@@ -1,0 +1,1 @@
+As branchs são as ramificações de um projeto, onde se pode mexer nelas sem alterar na ramificação principal main/master.
