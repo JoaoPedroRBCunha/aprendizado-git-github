@@ -1,0 +1,1 @@
+Na introdução se aprende a base de como é o git e github e como são importantes na vida de um programador.
